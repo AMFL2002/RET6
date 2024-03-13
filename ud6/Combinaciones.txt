@@ -1,0 +1,24 @@
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Prado, arma=candelabro, habitación=terraza, horaPartida=11:45:38.779872]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Mora, arma=hacha, habitación=spa, horaPartida=11:45:43.149886]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Amapola, arma=pesa, habitación=observatorio, horaPartida=11:48:43.685882]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Prado, arma=candelabro, habitación=comedor, horaPartida=14:12:09.925222]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Amapola, arma=cuerda, habitación=teatro, horaPartida=14:59:36.553891]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Blanco, arma=bate, habitación=salon, horaPartida=14:59:48.513311]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Celeste, arma=pesa, habitación=observatorio, horaPartida=14:59:52.606079]
+Cabecera - Fecha: 2024-03-11
+Jugador [nombre=Amapola, arma=candelabro, habitación=teatro, horaPartida=15:11:33.701236]
+Cabecera - Fecha: 2024-03-13
+Jugador [nombre=Blanco, arma=trofeo, habitación=cocina, horaPartida=15:22:22.141093]
+Cabecera - Fecha: 2024-03-13
+Jugador [nombre=Rubio, arma=candelabro, habitación=casa de invitados, horaPartida=15:22:27.541339]
+Cabecera - Fecha: 2024-03-13
+Jugador [nombre=Amapola, arma=cuchillo, habitación=salon, horaPartida=15:22:30.567180]
+Cabecera - Fecha: 2024-03-13
+Jugador [nombre=Rubio, arma=pistola, habitación=comedor, horaPartida=15:22:33.135257]
